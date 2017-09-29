@@ -1,0 +1,6 @@
+framework module Pods_moonshot_testUITests {
+  umbrella header "Pods-moonshot_testUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
